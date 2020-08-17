@@ -10,7 +10,7 @@ class QuestionsController < ApplicationController
       @answer = 'Silly question, get dressed and go to work'
 
     else
-      @answer = 'I dont care, get dressed and go to work!'
+      @answer = 'I dont care, get dressed and go tos work!'
     end
   end
 end
